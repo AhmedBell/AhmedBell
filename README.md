@@ -15,7 +15,7 @@
 |3| [Testimonials grid section](http://htmlpreview.github.io/?https://github.com/AhmedBell/Testimonials-grid-section/blob/main/index.html)|[<img src="https://github.com/dacitto/images-icons/blob/main/github.png" alt="" style="width:40px;"/>](https://github.com/AhmedBell/Testimonials-grid-section)
 |4| [Simple NightMode swapper](http://htmlpreview.github.io/?https://github.com/AhmedBell/Simple-nightMode-swapper/blob/main/index.html)|[<img src="https://github.com/dacitto/images-icons/blob/main/github.png" alt="" style="width:40px;"/>](https://github.com/AhmedBell/Simple-nightMode-swapper)
 |5| [Bee Sumilator app](https://bee-web.netlify.app)|[<img src="https://github.com/dacitto/images-icons/blob/main/github.png" alt="" style="width:40px;"/>](https://github.com/AhmedBell/BeeSumilator)
-|6| [Unity Cardboard App]|[<img src="https://github.com/dacitto/images-icons/blob/main/github.png" alt="" style="width:40px;"/>](https://github.com/AhmedBell/UnityCardboardApp)
+|6| Unity Cardboard App|[<img src="https://github.com/dacitto/images-icons/blob/main/github.png" alt="" style="width:40px;"/>](https://github.com/AhmedBell/UnityCardboardApp)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
